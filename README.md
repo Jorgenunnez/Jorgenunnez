@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mi:
 Frontend Developer<br>Buen trabajo en equipo<br>buena comunicación<br>Soy un entusiasta de la Tecnología en general<br><br>
 
 
